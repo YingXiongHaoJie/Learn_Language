@@ -8,6 +8,7 @@
 
 
 
+<<<<<<< HEAD
 **参考：**	[01 Git + GitHub 10分钟完全入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KD4y1S7FL/?spm_id_from=333.880.my_history.page.click&vd_source=e68413ee6f7a7b0a120138c50e83ea1e)
 
 ​				[02 Git + GitHub 10分钟完全入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hA411v7qX/?spm_id_from=333.788.recommend_more_video.3)
@@ -86,4 +87,9 @@
 
 
 
+=======
+**参考：**	[Git + GitHub 10分钟完全入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KD4y1S7FL/?spm_id_from=333.880.my_history.page.click&vd_source=e68413ee6f7a7b0a120138c50e83ea1e)
+
+​				![image-20231013151914389](C:\Users\Hollow\AppData\Roaming\Typora\typora-user-images\image-20231013151914389.png)
+>>>>>>> main
 
