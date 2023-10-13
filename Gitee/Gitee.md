@@ -43,3 +43,47 @@
 
 
 
+###### 查看全部文件或者仅查看修改的文件
+
+![image-20231013170924037](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013170924037.png) 如图所示按钮
+
+
+
+###### stash	暂存
+
+​	当我们修改了代码但出现其他情况时需要离开但并不打算提交时可以使用暂存功能将当前的代码进行缓存
+
+![image-20231013171308409](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013171308409.png)
+
+恢复暂存
+
+​	![image-20231013171513955](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013171513955.png)
+
+###### **rebase	**变基
+
+​	不会出现分叉的合并分支
+
+###### **Fast Forward	**快进
+
+![image-20231013172049649](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013172049649.png) 
+
+
+
+###### check out	签出
+
+![image-20231013172205320](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013172205320.png) 	回退之前提交的版本
+
+​	或者直接查看之前提交的版本也可以
+
+![image-20231013172343387](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013172343387.png)    
+
+回退完成后修改提交可以用HEAD之后再点变基
+
+![image-20231013172542652](D:\桌面\Learn\Learn_Language\Gitee\assets\image-20231013172542652.png) 
+
+
+
+
+
+
+
